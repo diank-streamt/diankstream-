@@ -77,3 +77,12 @@ https://www.youtube.com/watch?v=XXrlp5RQOrY
 
 #EXTINF:-1 group-title="Live YouTube",LoFi 24/7 (YouTube)
 https://www.youtube.com/watch?v=jfKfPfyJRdk
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport Live" group-title="Sports",Sport Live 1
+https://www.youtube.com/watch?v=xxxxxxxxx
+#EXTINF:-1 tvg-name="ORTM" group-title="Afrique",ORTM
+http://iptvlink.com/ORTM/stream.m3u8
+#EXTINF:-1 tvg-name="TF1" group-title="Europe",TF1
+http://iptvlink.com/TF1/stream.m3u8
+#EXTINF:-1 tvg-name="Film Adultes" group-title="Adultes",Adultes 18+
+https://www.youtube.com/watch?v=yyyyyyyyy
