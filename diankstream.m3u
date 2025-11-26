@@ -1,27 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7vZqP1P.png" group-title="SPORT",🔴 Live : Football 24/7
-https://www.youtube.com/watch?v=5nPaF1tE5Zw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7vZqP1P.png" group-title="SPORT",🔴 Live : Sports Africa
-https://www.youtube.com/watch?v=YiRRq3Tq8JY
+# ====== NEWS / INTERNATIONAL ======
+#EXTINF:-1 group-title="News",France 24 (FR)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uPzKid.png" group-title="AFRIQUE",ORTM (Mali)
-https://www.youtube.com/watch?v=s8YJkYkT1vQ
+#EXTINF:-1 group-title="News",France 24 (EN)
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uPzKid.png" group-title="AFRIQUE",RTI 1 (Côte d’Ivoire)
-https://www.youtube.com/watch?v=1jyNivJXQB0
+#EXTINF:-1 group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uPzKid.png" group-title="AFRIQUE",2STV (Sénégal)
-https://www.youtube.com/watch?v=2iKCLxQrp_4
+#EXTINF:-1 group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uPzKid.png" group-title="AFRIQUE",CRTV (Cameroun)
-https://www.youtube.com/watch?v=YUN_EwP6s8k
+# ====== AFRIQUE ======
+#EXTINF:-1 group-title="Africa",NTA Nigeria
+https://ntalive.netscopevideo.com/LiveApp/streams/nta.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5MgDIGy.png" group-title="EUROPE",Euronews (Français)
-https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1 group-title="Africa",Channel Africa
+https://d2ktlhg1cwx7z7.cloudfront.net/CA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5MgDIGy.png" group-title="EUROPE",France 24 (Français)
-https://www.youtube.com/watch?v=_sN7Zy8jPtk
+#EXTINF:-1 group-title="Africa",K24 Kenya
+https://d1z78r8i5rh0j7.cloudfront.net/out/v1/7708082b70114131b8bc1bf05a5f89e5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5MgDIGy.png" group-title="EUROPE",DW News
-https://www.youtube.com/watch?v=GE_SfNVNyqk
+# ====== SPORT (gratuit & légal) ======
+#EXTINF:-1 group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 group-title="Sport",FIFA+ TV
+https://d2kz61q39134en.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",Outside TV
+https://outsidetv-roku.amagi.tv/playlist.m3u8
+
+# ====== FILMS / SÉRIES (Public domain / Nollywood free) ======
+#EXTINF:-1 group-title="Movies",Classic Movies Channel
+https://stmv.video.expressolider.com/classiccinema/classiccinema/playlist.m3u8
+
+#EXTINF:-1 group-title="Nollywood",Nolly Classics (YouTube)
+https://www.youtube.com/watch?v=NMQ7aKDPVNI
+
+#EXTINF:-1 group-title="Movies",Public Domain Movie Channel
+https://maverick-maverickmovies-1-usx.pluto.tv/playlist.m3u8
+
+# ====== ROMANCE SOFT ======
+#EXTINF:-1 group-title="Romance",Love Stories TV
+https://lovestoriestv-lovestoriestv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+# ====== MUSIQUE ======
+#EXTINF:-1 group-title="Music",LoFi Girl (YouTube 24/7)
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+#EXTINF:-1 group-title="Music",Coke Studio Africa
+https://www.youtube.com/watch?v=KdfI4sPEZ90
+
+# ====== RELIGION ======
+#EXTINF:-1 group-title="Religion",EWTN Global Catholic
+https://d2ehr9bt3q3sfx.cloudfront.net/hls/ewtnlive/master.m3u8
+
+#EXTINF:-1 group-title="Religion",Iqraa TV
+https://iqraahls-live.hls.adaptive.level3.net/iqraahls/iqraa.m3u8
+
+# ====== DOCUMENTAIRES ======
+#EXTINF:-1 group-title="Documentary",Documentary Channel HD
+https://d3y0w3puy5n7cd.cloudfront.net/documentary/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Real Stories
+https://dai2-playlistserver-eurau.atresmedia.com/dai2/vod/realstories/playlist.m3u8
+
+# ====== LIVES YouTube (News / Afrique / Music) ======
+#EXTINF:-1 group-title="Live YouTube",France 24 Live (YouTube)
+https://www.youtube.com/watch?v=5mFfTj1f8E4
+
+#EXTINF:-1 group-title="Live YouTube",CRTV Cameroon Live (YouTube)
+https://www.youtube.com/watch?v=XXrlp5RQOrY
+
+#EXTINF:-1 group-title="Live YouTube",LoFi 24/7 (YouTube)
+https://www.youtube.com/watch?v=jfKfPfyJRdk
