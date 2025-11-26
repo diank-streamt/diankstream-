@@ -1,88 +1,103 @@
-#EXTM3U
 
-# ====== NEWS / INTERNATIONAL ======
-#EXTINF:-1 group-title="News",France 24 (FR)
+#EXTM3U
+# DIANK STREAM - Playlist organisée par pays & catégories
+# MISE À JOUR: Légale & gratuite (chaînes publiques, YouTube lives, films domaine public)
+
+########################################
+# SECTION: AFRIQUE - PAR PAYS
+########################################
+
+#EXTINF:-1 group-title="Senegal",Senegal - Playlist complète (iptv-org)
+https://iptv-org.github.io/iptv/countries/sn.m3u
+
+#EXTINF:-1 group-title="Mali",Mali - Playlist complète (iptv-org)
+https://iptv-org.github.io/iptv/countries/ml.m3u
+
+#EXTINF:-1 group-title="Congo",Congo (Brazzaville) - Playlist (iptv-org)
+https://iptv-org.github.io/iptv/countries/cg.m3u
+
+#EXTINF:-1 group-title="RDC",Congo (DRC) - Playlist (iptv-org)
+https://iptv-org.github.io/iptv/countries/cd.m3u
+
+#EXTINF:-1 group-title="Cameroon",Cameroon - Playlist (iptv-org)
+https://iptv-org.github.io/iptv/countries/cm.m3u
+
+#EXTINF:-1 group-title="IvoryCoast",Côte d'Ivoire - Playlist (iptv-org)
+https://iptv-org.github.io/iptv/countries/ci.m3u
+
+#EXTINF:-1 group-title="SenegalLocal",RTS (exemple, si présent)
+https://iptv-org.github.io/iptv/sources/m3u/sn.rts.m3u
+
+########################################
+# SECTION: EUROPE & FRANCE
+########################################
+
+#EXTINF:-1 group-title="France",France 24 (FR) - live
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 group-title="News",France 24 (EN)
+#EXTINF:-1 group-title="France",France 24 (EN) - live
 https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 group-title="News",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Europe",Euronews (English)
+https://euronews-euronews-world-1-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+########################################
+# SECTION: SPORTS / SPORT GRATUIT
+########################################
 
-# ====== AFRIQUE ======
-#EXTINF:-1 group-title="Africa",NTA Nigeria
-https://ntalive.netscopevideo.com/LiveApp/streams/nta.m3u8
-
-#EXTINF:-1 group-title="Africa",Channel Africa
-https://d2ktlhg1cwx7z7.cloudfront.net/CA/index.m3u8
-
-#EXTINF:-1 group-title="Africa",K24 Kenya
-https://d1z78r8i5rh0j7.cloudfront.net/out/v1/7708082b70114131b8bc1bf05a5f89e5/index.m3u8
-
-# ====== SPORT (gratuit & légal) ======
-#EXTINF:-1 group-title="Sport",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 group-title="Sport",FIFA+ TV
+#EXTINF:-1 group-title="Sport",FIFA+ Official (replays & some live)
 https://d2kz61q39134en.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",Red Bull TV (événements & sports extrêmes)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="Sport",Outside TV
 https://outsidetv-roku.amagi.tv/playlist.m3u8
 
-# ====== FILMS / SÉRIES (Public domain / Nollywood free) ======
-#EXTINF:-1 group-title="Movies",Classic Movies Channel
-https://stmv.video.expressolider.com/classiccinema/classiccinema/playlist.m3u8
+########################################
+# SECTION: FILMS & SÉRIES (Public domain / gratuit)
+########################################
 
-#EXTINF:-1 group-title="Nollywood",Nolly Classics (YouTube)
-https://www.youtube.com/watch?v=NMQ7aKDPVNI
-
-#EXTINF:-1 group-title="Movies",Public Domain Movie Channel
+#EXTINF:-1 group-title="Movies",Public Domain Movies (Ex. Classic)
 https://maverick-maverickmovies-1-usx.pluto.tv/playlist.m3u8
 
-# ====== ROMANCE SOFT ======
-#EXTINF:-1 group-title="Romance",Love Stories TV
-https://lovestoriestv-lovestoriestv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Popcornflix (chaînes films gratuites)
+https://popcornflix.popcornflix-1-us-east-1.stream.wurl.com/playlist.m3u8
 
-# ====== MUSIQUE ======
-#EXTINF:-1 group-title="Music",LoFi Girl (YouTube 24/7)
+########################################
+# SECTION: MUSIQUE
+########################################
+
+#EXTINF:-1 group-title="Music",LoFi Girl (YouTube - 24/7)
 https://www.youtube.com/watch?v=jfKfPfyJRdk
 
-#EXTINF:-1 group-title="Music",Coke Studio Africa
-https://www.youtube.com/watch?v=KdfI4sPEZ90
+#EXTINF:-1 group-title="Music",Trace Music (exemple)
+https://iptv-org.github.io/iptv/sources/m3u/trace.m3u
 
-# ====== RELIGION ======
-#EXTINF:-1 group-title="Religion",EWTN Global Catholic
+########################################
+# SECTION: RELIGION
+########################################
+
+#EXTINF:-1 group-title="Religion",EWTN (Catholic - live)
 https://d2ehr9bt3q3sfx.cloudfront.net/hls/ewtnlive/master.m3u8
 
-#EXTINF:-1 group-title="Religion",Iqraa TV
+#EXTINF:-1 group-title="Religion",Iqraa (Islam)
 https://iqraahls-live.hls.adaptive.level3.net/iqraahls/iqraa.m3u8
 
-# ====== DOCUMENTAIRES ======
-#EXTINF:-1 group-title="Documentary",Documentary Channel HD
-https://d3y0w3puy5n7cd.cloudfront.net/documentary/playlist.m3u8
+########################################
+# SECTION: LIVES YOUTUBE (News, Afrique, Musique)
+# IMPORTANT: certains players acceptent les URLs YouTube, d'autres non.
+########################################
 
-#EXTINF:-1 group-title="Documentary",Real Stories
-https://dai2-playlistserver-eurau.atresmedia.com/dai2/vod/realstories/playlist.m3u8
-
-# ====== LIVES YouTube (News / Afrique / Music) ======
 #EXTINF:-1 group-title="Live YouTube",France 24 Live (YouTube)
 https://www.youtube.com/watch?v=5mFfTj1f8E4
 
-#EXTINF:-1 group-title="Live YouTube",CRTV Cameroon Live (YouTube)
+#EXTINF:-1 group-title="Live YouTube",Al Jazeera English (YouTube)
+https://www.youtube.com/watch?v=XRix3A54s1U
+
+#EXTINF:-1 group-title="Live YouTube",CRTV Cameroon (YouTube)
 https://www.youtube.com/watch?v=XXrlp5RQOrY
 
-#EXTINF:-1 group-title="Live YouTube",LoFi 24/7 (YouTube)
-https://www.youtube.com/watch?v=jfKfPfyJRdk
-#EXTM3U
-#EXTINF:-1 tvg-name="Sport Live" group-title="Sports",Sport Live 1
-https://www.youtube.com/watch?v=xxxxxxxxx
-#EXTINF:-1 tvg-name="ORTM" group-title="Afrique",ORTM
-http://iptvlink.com/ORTM/stream.m3u8
-#EXTINF:-1 tvg-name="TF1" group-title="Europe",TF1
-http://iptvlink.com/TF1/stream.m3u8
-#EXTINF:-1 tvg-name="Film Adultes" group-title="Adultes",Adultes 18+
-https://www.youtube.com/watch?v=yyyyyyyyy
+########################################
+# FIN - Tu peux ajouter / changer les sections pays ci-dessous
+########################################
