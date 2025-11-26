@@ -1,103 +1,56 @@
-
 #EXTM3U
-# DIANK STREAM - Playlist organisée par pays & catégories
-# MISE À JOUR: Légale & gratuite (chaînes publiques, YouTube lives, films domaine public)
 
-########################################
-# SECTION: AFRIQUE - PAR PAYS
-########################################
+# ================= AFRIQUE =================
 
-#EXTINF:-1 group-title="Senegal",Senegal - Playlist complète (iptv-org)
+# === Sénégal ===
+#EXTINF:-1 group-title="Sénégal", RTS 1
 https://iptv-org.github.io/iptv/countries/sn.m3u
 
-#EXTINF:-1 group-title="Mali",Mali - Playlist complète (iptv-org)
+# === Mali ===
+#EXTINF:-1 group-title="Mali", ORTM 1
 https://iptv-org.github.io/iptv/countries/ml.m3u
 
-#EXTINF:-1 group-title="Congo",Congo (Brazzaville) - Playlist (iptv-org)
-https://iptv-org.github.io/iptv/countries/cg.m3u
-
-#EXTINF:-1 group-title="RDC",Congo (DRC) - Playlist (iptv-org)
-https://iptv-org.github.io/iptv/countries/cd.m3u
-
-#EXTINF:-1 group-title="Cameroon",Cameroon - Playlist (iptv-org)
-https://iptv-org.github.io/iptv/countries/cm.m3u
-
-#EXTINF:-1 group-title="IvoryCoast",Côte d'Ivoire - Playlist (iptv-org)
+# === Côte d'Ivoire ===
+#EXTINF:-1 group-title="Côte d'Ivoire", RTI 1
 https://iptv-org.github.io/iptv/countries/ci.m3u
 
-#EXTINF:-1 group-title="SenegalLocal",RTS (exemple, si présent)
-https://iptv-org.github.io/iptv/sources/m3u/sn.rts.m3u
+# === Cameroun ===
+#EXTINF:-1 group-title="Cameroun", CRTV
+https://iptv-org.github.io/iptv/countries/cm.m3u
 
-########################################
-# SECTION: EUROPE & FRANCE
-########################################
+# === Congo & RDC ===
+#EXTINF:-1 group-title="Congo", Télé Congo
+https://iptv-org.github.io/iptv/countries/cg.m3u
 
-#EXTINF:-1 group-title="France",France 24 (FR) - live
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="RDC", RTNC
+https://iptv-org.github.io/iptv/countries/cd.m3u
 
-#EXTINF:-1 group-title="France",France 24 (EN) - live
-https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 group-title="Europe",Euronews (English)
-https://euronews-euronews-world-1-be.samsung.wurl.tv/playlist.m3u8
+# ================= EUROPE & FRANCE =================
 
-########################################
-# SECTION: SPORTS / SPORT GRATUIT
-########################################
+#EXTINF:-1 group-title="France", France 24
+https://iptv-org.github.io/iptv/countries/fr.m3u
 
-#EXTINF:-1 group-title="Sport",FIFA+ Official (replays & some live)
-https://d2kz61q39134en.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport",Red Bull TV (événements & sports extrêmes)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+# ================= SPORT =================
 
-#EXTINF:-1 group-title="Sport",Outside TV
-https://outsidetv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport", Live Football
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sports.m3u
 
-########################################
-# SECTION: FILMS & SÉRIES (Public domain / gratuit)
-########################################
 
-#EXTINF:-1 group-title="Movies",Public Domain Movies (Ex. Classic)
-https://maverick-maverickmovies-1-usx.pluto.tv/playlist.m3u8
+# ================= FILMS & SERIES =================
 
-#EXTINF:-1 group-title="Movies",Popcornflix (chaînes films gratuites)
-https://popcornflix.popcornflix-1-us-east-1.stream.wurl.com/playlist.m3u8
+#EXTINF:-1 group-title="Films & Séries", Movies
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/movies.m3u
 
-########################################
-# SECTION: MUSIQUE
-########################################
 
-#EXTINF:-1 group-title="Music",LoFi Girl (YouTube - 24/7)
-https://www.youtube.com/watch?v=jfKfPfyJRdk
+# ================= ADULTES =================
 
-#EXTINF:-1 group-title="Music",Trace Music (exemple)
-https://iptv-org.github.io/iptv/sources/m3u/trace.m3u
+#EXTINF:-1 group-title="Adultes", XXX Live
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/adult.m3u
 
-########################################
-# SECTION: RELIGION
-########################################
 
-#EXTINF:-1 group-title="Religion",EWTN (Catholic - live)
-https://d2ehr9bt3q3sfx.cloudfront.net/hls/ewtnlive/master.m3u8
+# ================= RADIO =================
 
-#EXTINF:-1 group-title="Religion",Iqraa (Islam)
-https://iqraahls-live.hls.adaptive.level3.net/iqraahls/iqraa.m3u8
-
-########################################
-# SECTION: LIVES YOUTUBE (News, Afrique, Musique)
-# IMPORTANT: certains players acceptent les URLs YouTube, d'autres non.
-########################################
-
-#EXTINF:-1 group-title="Live YouTube",France 24 Live (YouTube)
-https://www.youtube.com/watch?v=5mFfTj1f8E4
-
-#EXTINF:-1 group-title="Live YouTube",Al Jazeera English (YouTube)
-https://www.youtube.com/watch?v=XRix3A54s1U
-
-#EXTINF:-1 group-title="Live YouTube",CRTV Cameroon (YouTube)
-https://www.youtube.com/watch?v=XXrlp5RQOrY
-
-########################################
-# FIN - Tu peux ajouter / changer les sections pays ci-dessous
-########################################
+#EXTINF:-1 group-title="Radio", Africa Radio
+https://raw.githubusercontent.com/iptv-org/iptv/master/categories/radio.m3u
