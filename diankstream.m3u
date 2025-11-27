@@ -1,349 +1,97 @@
-#EXTM3U
+#EXTM3U url-tvg="http://example.com/epg.xml" x-tvg-url="http://example.com/epg.xml"
 
-##############################
-# >>> AFRIQUE (par pays)
-##############################
+############################################################
+#                     🌍 AFRIQUE (par pays)
+############################################################
 
-## Mali
-#EXTINF:-1 group-title="Afrique/Mali",ORTM (Mali)
-https://www.youtube.com/results?search_query=ORTM+Mali+live
-#EXTINF:-1 group-title="Afrique/Mali",Radio Tele Kayira
-https://www.youtube.com/results?search_query=Radio+Tele+Kayira+live
+########### 🇲🇱 AF MALI ###########
+#EXTINF:-1 tvg-id="ortm" tvg-name="ORTM" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ortm.png" group-title="AF MALI",ORTM
+https://streaming.ortm.ml/live/ortm1/index.m3u8
+#EXTINF:-1 tvg-id="tm1mali" tvg-name="TM1 Mali" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tm1mali.png" group-title="AF MALI",TM1 Mali
+https://www.youtube.com/@tm1mali/live
+#EXTINF:-1 tvg-id="cherifoula" tvg-name="Cherifoula TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/cherifoula.png" group-title="AF MALI",Cherifoula TV
+https://www.youtube.com/@cherifoulatv/live
 
-## Sénégal
-#EXTINF:-1 group-title="Afrique/Senegal",RTS 1 (Sénégal)
-https://www.youtube.com/results?search_query=RTS+1+Senegal+live
-#EXTINF:-1 group-title="Afrique/Senegal",2STV
-https://www.youtube.com/results?search_query=2STV+live
-#EXTINF:-1 group-title="Afrique/Senegal",TFM
-https://www.youtube.com/results?search_query=TFM+Senegal+live
-#EXTINF:-1 group-title="Afrique/Senegal",Walf TV
-https://www.youtube.com/results?search_query=Walf+TV+live
+########### 🇸🇳 AF SENEGAL ###########
+#EXTINF:-1 tvg-id="2stv" tvg-name="2STV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/2stv.png" group-title="AF SENEGAL",2STV
+https://www.youtube.com/@2stvsenegal/live
+#EXTINF:-1 tvg-id="walftv" tvg-name="Walf TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/walftv.png" group-title="AF SENEGAL",Walf TV
+https://www.youtube.com/@walftv/live
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rts1.png" group-title="AF SENEGAL",RTS 1
+https://www.youtube.com/@RTS_Officiel/live
 
-## Nigeria
-#EXTINF:-1 group-title="Afrique/Nigeria",Channels TV (Nigeria)
-https://www.youtube.com/c/ChannelsTelevision/live
-#EXTINF:-1 group-title="Afrique/Nigeria",NTA (Nigeria)
-https://www.youtube.com/results?search_query=NTA+Nigeria+live
-#EXTINF:-1 group-title="Afrique/Nigeria",AIT (Nigeria)
-https://www.youtube.com/results?search_query=AIT+Nigeria+live
-#EXTINF:-1 group-title="Afrique/Nigeria",Silverbird TV
-https://www.youtube.com/results?search_query=Silverbird+TV+live
+########### 🇨🇮 AF COTE IVOIRE ###########
+#EXTINF:-1 tvg-id="nci" tvg-name="NCI" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/nci.png" group-title="AF COTE IVOIRE",NCI
+https://www.youtube.com/@nci.ci/live
+#EXTINF:-1 tvg-id="la3" tvg-name="La 3" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/la3.png" group-title="AF COTE IVOIRE",La 3
+https://www.youtube.com/@La3Officielle/live
 
-## Niger
-#EXTINF:-1 group-title="Afrique/Niger",Tele Sahel
-https://www.youtube.com/results?search_query=Tele+Sahel+live
-#EXTINF:-1 group-title="Afrique/Niger",Labari TV
-https://www.youtube.com/results?search_query=Labari+TV+live
+########### 🇨🇲 AF CAMEROUN ###########
+#EXTINF:-1 tvg-id="crtv" tvg-name="CRTV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/crtv.png" group-title="AF CAMEROUN",CRTV
+https://www.youtube.com/@CRTVweb/live
+#EXTINF:-1 tvg-id="equinoxe" tvg-name="Equinoxe TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/equinoxe.png" group-title="AF CAMEROUN",Equinoxe TV
+https://www.youtube.com/@equinoxetv-officiel/live
 
-## Burkina Faso
-#EXTINF:-1 group-title="Afrique/Burkina",RTB (Burkina Faso)
-https://www.youtube.com/results?search_query=RTB+Burkina+live
-#EXTINF:-1 group-title="Afrique/Burkina",Savane TV
-https://www.youtube.com/results?search_query=Savane+TV+Burkina+live
+########### 🇨🇬 AF CONGO ###########
+#EXTINF:-1 tvg-id="telecongo" tvg-name="Télé Congo" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/telecongo.png" group-title="AF CONGO",Télé Congo
+https://www.youtube.com/@telecongotv/live
 
-## Cameroun
-#EXTINF:-1 group-title="Afrique/Cameroun",CRTV (Cameroun)
-https://www.youtube.com/results?search_query=CRTV+Cameroon+live
-#EXTINF:-1 group-title="Afrique/Cameroun",Equinoxe TV
-https://www.youtube.com/results?search_query=Equinoxe+TV+Cameroon+live
-#EXTINF:-1 group-title="Afrique/Cameroun",Vision 4
-https://www.youtube.com/results?search_query=Vision+4+Cameroon+live
+########### 🇨🇩 AF RDC ###########
+#EXTINF:-1 tvg-id="rtnc" tvg-name="RTNC" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtnc.png" group-title="AF RDC",RTNC
+https://www.youtube.com/@RTNC_live/live
 
-## Congo (Brazzaville / RDC)
-#EXTINF:-1 group-title="Afrique/Congo",Tele Congo (Congo-Brazzaville)
-https://www.youtube.com/results?search_query=Tele+Congo+live
-#EXTINF:-1 group-title="Afrique/Congo",RTNC (Congo-Kinshasa)
-https://www.youtube.com/results?search_query=RTNC+DRC+live
-#EXTINF:-1 group-title="Afrique/Congo",Congo Web TV
-https://www.youtube.com/results?search_query=Congo+Web+TV+live
+########### 🇳🇬 AF NIGERIA ###########
+#EXTINF:-1 tvg-id="channels" tvg-name="Channels TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/channels.png" group-title="AF NIGERIA",Channels TV
+https://www.youtube.com/@channelstelevision/live
+#EXTINF:-1 tvg-id="ait" tvg-name="AIT" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ait.png" group-title="AF NIGERIA",AIT
+https://www.youtube.com/@aitlive/live
 
-## Côte d'Ivoire
-#EXTINF:-1 group-title="Afrique/CoteIvoire",RTI 1
-https://www.youtube.com/results?search_query=RTI+1+CI+live
-#EXTINF:-1 group-title="Afrique/CoteIvoire",NCI
-https://www.youtube.com/results?search_query=NCI+Ivory+Coast+live
+########### 🇬🇭 AF GHANA ###########
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/gtv.png" group-title="AF GHANA",GTV
+https://www.youtube.com/@gtvghana/live
 
-## Ghana
-#EXTINF:-1 group-title="Afrique/Ghana",GTV (Ghana)
-https://www.youtube.com/results?search_query=GTV+Ghana+live
-#EXTINF:-1 group-title="Afrique/Ghana",GHOne TV
-https://www.youtube.com/results?search_query=GHOne+TV+live
+########### 🇬🇳 AF GUINEE ###########
+#EXTINF:-1 tvg-id="rtg" tvg-name="RTG" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtg.png" group-title="AF GUINEE",RTG
+https://www.youtube.com/@RTG_Officielle/live
 
-## Togo
-#EXTINF:-1 group-title="Afrique/Togo",TVT (Togo)
-https://www.youtube.com/results?search_query=TVT+Togo+live
+########### 🇧🇫 AF BURKINA ###########
+#EXTINF:-1 tvg-id="rtb_bf" tvg-name="RTB Burkina" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtb_bf.png" group-title="AF BURKINA",RTB
+https://www.youtube.com/@RadiodiffusionetTelevisionduBurkina/live
 
-## Benin
-#EXTINF:-1 group-title="Afrique/Benin",ORTB (Bénin)
-https://www.youtube.com/results?search_query=ORTB+Benin+live
+########### 🇳🇪 AF NIGER ###########
+#EXTINF:-1 tvg-id="telesahel" tvg-name="Télé Sahel" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/telesahel.png" group-title="AF NIGER",Télé Sahel
+https://www.youtube.com/@telesahel_officiel/live
 
-## Guinée
-#EXTINF:-1 group-title="Afrique/Guinee",RTG (Guinée)
-https://www.youtube.com/results?search_query=RTG+Guinee+live
+########### 🇧🇯 AF BENIN ###########
+#EXTINF:-1 tvg-id="ortb_ben" tvg-name="ORTB" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ortb.png" group-title="AF BENIN",ORTB
+https://www.youtube.com/@ORTBOfficiel/live
 
-## Sierra Leone
-#EXTINF:-1 group-title="Afrique/SierraLeone",SLBC
-https://www.youtube.com/results?search_query=SLBC+Sierra+Leone+live
+########### 🇹🇬 AF TOGO ###########
+#EXTINF:-1 tvg-id="tvt" tvg-name="TVT" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tvt.png" group-title="AF TOGO",TVT
+https://www.youtube.com/@tvt_officiel/live
 
-## Liberia
-#EXTINF:-1 group-title="Afrique/Liberia",ELBC
-https://www.youtube.com/results?search_query=ELBC+Liberia+live
+########### 🇪🇬 AF EGYPTE ###########
+#EXTINF:-1 tvg-id="ontv" tvg-name="ONTV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ontv.png" group-title="AF EGYPTE",ONTV
+https://www.youtube.com/@ONTVEGY/live
 
-## Mauritanie
-#EXTINF:-1 group-title="Afrique/Mauritanie",Tele Mauritanie
-https://www.youtube.com/results?search_query=Tele+Mauritanie+live
+########### 🇲🇦 AF MAROC ###########
+#EXTINF:-1 tvg-id="2m" tvg-name="2M" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/2m.png" group-title="AF MAROC",2M
+https://www.youtube.com/@2mtv/live
+#EXTINF:-1 tvg-id="alaoula" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/alaoula.png" group-title="AF MAROC",Al Aoula
+https://www.youtube.com/@alaoulaofficiel/live
 
-## Maroc
-#EXTINF:-1 group-title="Afrique/Maroc",2M Maroc
-https://www.youtube.com/results?search_query=2M+Maroc+live
-#EXTINF:-1 group-title="Afrique/Maroc",AlAoula
-https://www.youtube.com/results?search_query=Al+Aoula+live
+########### 🇩🇿 AF ALGERIE ###########
+#EXTINF:-1 tvg-id="entv" tvg-name="ENTV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/entv.png" group-title="AF ALGERIE",ENTV
+https://www.youtube.com/@entv/live
 
-## Algérie
-#EXTINF:-1 group-title="Afrique/Algerie",ENTV (Algérie)
-https://www.youtube.com/results?search_query=ENTV+Algerie+live
+########### 🇿🇦 AF SOUTH AFRICA ###########
+#EXTINF:-1 tvg-id="sabc" tvg-name="SABC News" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/sabc.png" group-title="AF SOUTH AFRICA",SABC News
+https://www.youtube.com/@sabcnews/live
+#EXTINF:-1 tvg-id="enca" tvg-name="eNCA" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/enca.png" group-title="AF SOUTH AFRICA",eNCA
+https://www.youtube.com/@eNCA/live
 
-## Tunisie
-#EXTINF:-1 group-title="Afrique/Tunisie",Télévision Tunisienne (El Wataniya)
-https://www.youtube.com/results?search_query=Television+Tunisienne+live
+############################################################
+#                     🇪🇺 EUROPE (par pays)
+############################################################
 
-## Egypte
-#EXTINF:-1 group-title="Afrique/Egypte",Al Jazeera Mubasher (EGY feeds)
-https://www.youtube.com/results?search_query=Egypt+live+tv
-#EXTINF:-1 group-title="Afrique/Egypte",ONTV Egypt
-https://www.youtube.com/results?search_query=ONTV+Egypt+live
-
-## Afrique du Sud
-#EXTINF:-1 group-title="Afrique/SouthAfrica",SABC
-https://www.youtube.com/results?search_query=SABC+live
-#EXTINF:-1 group-title="Afrique/SouthAfrica",eNCA
-https://www.youtube.com/results?search_query=eNCA+live
-
-## Kenya
-#EXTINF:-1 group-title="Afrique/Kenya",NTV Kenya
-https://www.youtube.com/results?search_query=NTV+Kenya+live
-#EXTINF:-1 group-title="Afrique/Kenya",K24
-https://www.youtube.com/results?search_query=K24+Kenya+live
-
-## Uganda
-#EXTINF:-1 group-title="Afrique/Uganda",NTV Uganda
-https://www.youtube.com/results?search_query=NTV+Uganda+live
-
-## Tanzania
-#EXTINF:-1 group-title="Afrique/Tanzania",TBC Tanzania
-https://www.youtube.com/results?search_query=TBC+Tanzania+live
-
-## Rwanda
-#EXTINF:-1 group-title="Afrique/Rwanda",Rwanda TV
-https://www.youtube.com/results?search_query=Rwanda+TV+live
-
-## Burundi
-#EXTINF:-1 group-title="Afrique/Burundi",RTNB
-https://www.youtube.com/results?search_query=RTNB+Burundi+live
-
-## Angola
-#EXTINF:-1 group-title="Afrique/Angola",TPA Angola
-https://www.youtube.com/results?search_query=TPA+Angola+live
-
-## Mozambique
-#EXTINF:-1 group-title="Afrique/Mozambique",TVM Mozambique
-https://www.youtube.com/results?search_query=TVM+Mozambique+live
-
-## Madagascar
-#EXTINF:-1 group-title="Afrique/Madagascar",TVM Madagascar
-https://www.youtube.com/results?search_query=TVM+Madagascar+live
-
-## Zimbabwe
-#EXTINF:-1 group-title="Afrique/Zimbabwe",ZBC
-https://www.youtube.com/results?search_query=ZBC+Zimbabwe+live
-
-## Zambia
-#EXTINF:-1 group-title="Afrique/Zambia",ZCTV
-https://www.youtube.com/results?search_query=ZCTV+Zambia+live
-
-## Namibia
-#EXTINF:-1 group-title="Afrique/Namibia",NBC Namibia
-https://www.youtube.com/results?search_query=NBC+Namibia+live
-
-## Botswana
-#EXTINF:-1 group-title="Afrique/Botswana",BTV Botswana
-https://www.youtube.com/results?search_query=BTV+Botswana+live
-
-## Malawi
-#EXTINF:-1 group-title="Afrique/Malawi",MBC Malawi
-https://www.youtube.com/results?search_query=MBC+Malawi+live
-
-## Eritrea
-#EXTINF:-1 group-title="Afrique/Eritrea",Eri-TV
-https://www.youtube.com/results?search_query=Eri+TV+live
-
-## Soudan / Soudan du Sud
-#EXTINF:-1 group-title="Afrique/Sudan",Sudan TV
-https://www.youtube.com/results?search_query=Sudan+TV+live
-
-## Tchad
-#EXTINF:-1 group-title="Afrique/Chad",Tele Tchad
-https://www.youtube.com/results?search_query=Tele+Tchad+live
-
-## RCA (Centrafrique)
-#EXTINF:-1 group-title="Afrique/Centrafrique",Tele Centrafrique
-https://www.youtube.com/results?search_query=Tele+Centrafrique+live
-
-##############################
-# >>> EUROPE (par pays)
-##############################
-
-## France
-#EXTINF:-1 group-title="Europe/France",France 24 (FR)
-https://www.youtube.com/c/france24/live
-#EXTINF:-1 group-title="Europe/France",France 24 (EN)
-https://www.youtube.com/c/FRANCE24English/live
-#EXTINF:-1 group-title="Europe/France",TF1 (chaînes officielles / clips)
-https://www.youtube.com/results?search_query=TF1+live+official
-
-## United Kingdom
-#EXTINF:-1 group-title="Europe/UK",BBC News (clips & live)
-https://www.youtube.com/results?search_query=BBC+News+live
-#EXTINF:-1 group-title="Europe/UK",Sky News (UK)
-https://www.youtube.com/c/SkyNews/live
-#EXTINF:-1 group-title="Europe/UK",ITV News
-https://www.youtube.com/results?search_query=ITV+News+live
-
-## Germany
-#EXTINF:-1 group-title="Europe/Germany",Deutsche Welle (DW)
-https://www.youtube.com/c/deutschewelle/live
-#EXTINF:-1 group-title="Europe/Germany",ZDF (clips)
-https://www.youtube.com/results?search_query=ZDF+live
-
-## Italy
-#EXTINF:-1 group-title="Europe/Italy",Rai News 24
-https://www.youtube.com/c/rainews24/live
-#EXTINF:-1 group-title="Europe/Italy",RAI channels
-https://www.youtube.com/results?search_query=RAI+live
-
-## Spain
-#EXTINF:-1 group-title="Europe/Spain",RTVE
-https://www.youtube.com/results?search_query=RTVE+live
-#EXTINF:-1 group-title="Europe/Spain",Telemadrid
-https://www.youtube.com/results?search_query=Telemadrid+live
-
-## Portugal
-#EXTINF:-1 group-title="Europe/Portugal",RTP
-https://www.youtube.com/results?search_query=RTP+live
-
-## Netherlands
-#EXTINF:-1 group-title="Europe/Netherlands",NOS
-https://www.youtube.com/results?search_query=NOS+live
-
-## Belgium
-#EXTINF:-1 group-title="Europe/Belgium",RTBF
-https://www.youtube.com/results?search_query=RTBF+live
-
-## Switzerland
-#EXTINF:-1 group-title="Europe/Switzerland",RTS
-https://www.youtube.com/results?search_query=RTS+live
-
-## Austria
-#EXTINF:-1 group-title="Europe/Austria",ORF
-https://www.youtube.com/results?search_query=ORF+live
-
-## Sweden / Norway / Denmark / Finland
-#EXTINF:-1 group-title="Europe/Scandinavia",SVT (Sweden)
-https://www.youtube.com/results?search_query=SVT+live
-#EXTINF:-1 group-title="Europe/Scandinavia",NRK (Norway)
-https://www.youtube.com/results?search_query=NRK+live
-#EXTINF:-1 group-title="Europe/Scandinavia",DR (Denmark)
-https://www.youtube.com/results?search_query=DR+live
-#EXTINF:-1 group-title="Europe/Scandinavia",YLE (Finland)
-https://www.youtube.com/results?search_query=YLE+live
-
-## Poland / Czech / Hungary / Romania / Bulgaria
-#EXTINF:-1 group-title="Europe/Eastern",TVP (Poland)
-https://www.youtube.com/results?search_query=TVP+live
-#EXTINF:-1 group-title="Europe/Eastern",CT (Czech)
-https://www.youtube.com/results?search_query=Czech+TV+live
-#EXTINF:-1 group-title="Europe/Eastern",M1 (Hungary)
-https://www.youtube.com/results?search_query=Hungary+TV+live
-#EXTINF:-1 group-title="Europe/Eastern",TVR (Romania)
-https://www.youtube.com/results?search_query=TVR+live
-#EXTINF:-1 group-title="Europe/Eastern",BNT (Bulgaria)
-https://www.youtube.com/results?search_query=BNT+live
-
-## Greece / Croatia / Serbia / Croatia / Slovenia
-#EXTINF:-1 group-title="Europe/SouthEast",ERT (Greece)
-https://www.youtube.com/results?search_query=ERT+live
-#EXTINF:-1 group-title="Europe/SouthEast",HRT (Croatia)
-https://www.youtube.com/results?search_query=HRT+live
-#EXTINF:-1 group-title="Europe/SouthEast",RTS (Serbia)
-https://www.youtube.com/results?search_query=RTS+Serbia+live
-
-##############################
-# >>> SPORTS GRATUIT
-##############################
-#EXTINF:-1 group-title="Sports",Red Bull TV (sports & events)
-https://www.redbull.com/int-en/tv
-#EXTINF:-1 group-title="Sports",FIBA Official
-https://www.youtube.com/c/FIBA/live
-#EXTINF:-1 group-title="Sports",Volleyball World
-https://www.youtube.com/c/VolleyballWorld/live
-#EXTINF:-1 group-title="Sports",Official Boxing (search)
-https://www.youtube.com/results?search_query=boxing+live+official
-#EXTINF:-1 group-title="Sports",CAF TV (competitions)
-https://www.youtube.com/results?search_query=CAF+TV+live
-#EXTINF:-1 group-title="Sports",UEFA / Highlights (YouTube)
-https://www.youtube.com/results?search_query=UEFA+live+highlights
-
-##############################
-# >>> YOUTUBE LIVE (général)
-##############################
-#EXTINF:-1 group-title="YouTube Live",YouTube Live (Global)
-https://www.youtube.com/live
-#EXTINF:-1 group-title="YouTube Live",News Live Search
-https://www.youtube.com/results?search_query=news+live
-#EXTINF:-1 group-title="YouTube Live",Music Live Search
-https://www.youtube.com/results?search_query=music+live
-
-##############################
-# >>> SÉRIES GRATUITES
-##############################
-#EXTINF:-1 group-title="Series",Nollywood Series (YouTube)
-https://www.youtube.com/results?search_query=nollywood+series+full+episodes
-#EXTINF:-1 group-title="Series",Rok TV Series
-https://www.youtube.com/results?search_query=Rok+TV+series
-#EXTINF:-1 group-title="Series",Pluto TV Series
-https://pluto.tv/live-tv
-
-##############################
-# >>> FILMS GRATUITS
-##############################
-#EXTINF:-1 group-title="Films",Nollywood Movies (Free)
-https://www.youtube.com/results?search_query=nollywood+full+movie+free
-#EXTINF:-1 group-title="Films",Pluto TV Movies
-https://pluto.tv/live-tv
-#EXTINF:-1 group-title="Films",Tubi TV
-https://tubitv.com/
-#EXTINF:-1 group-title="Films",Archive.org Movies
-https://archive.org/details/movies
-
-##############################
-# >>> FILMS POUR ENFANTS
-##############################
-#EXTINF:-1 group-title="Enfants",Kids Cartoons (search)
-https://www.youtube.com/results?search_query=cartoon+kids+full+episodes
-#EXTINF:-1 group-title="Enfants",Peppa Pig (FR)
-https://www.youtube.com/results?search_query=Peppa+Pig+French+episodes
-#EXTINF:-1 group-title="Enfants",Disney Clips (official)
-https://www.youtube.com/results?search_query=Disney+kids+clips
-
-##############################
-# >>> FILMS ADULTES (18+ — uniquement légaux / gratuits)
-##############################
-#EXTINF:-1 group-title="Adultes",Adult 18+ (recherche légale)
-https://www.youtube.com/results?search_query=18%2B+films+free
-#EXTINF:-1 group-title="Adultes",Soft Adult (legal clips)
-https://www.youtube.com/results?search_query=soft+erotic+film+full+legal
-
-##############################
-# >>> FIN DE LA PLAYLIST
-##############################
+###########
