@@ -1,0 +1,131 @@
+#EXTM3U
+
+############################
+
+🇫🇷 FRANCE (OFFICIEL)
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/1.png" group-title="FRANCE",France 24 FR
+https://www.youtube.com/@FRANCE24/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2.png" group-title="FRANCE",France 24 EN
+https://www.youtube.com/@FRANCE24English/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3.png" group-title="FRANCE",TV5Monde
+https://www.youtube.com/@TV5MONDE/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4.png" group-title="FRANCE",France Info
+https://www.youtube.com/@franceinfo/live
+
+############################
+
+🇧🇪 BELGIQUE
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/5.png" group-title="BELGIQUE",RTBF
+https://www.youtube.com/@RTBF/live
+
+############################
+
+🇨🇭 SUISSE
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/6.png" group-title="SUISSE",RTS Info
+https://www.youtube.com/@RTSinfo/live
+
+############################
+
+🌍 AFRIQUE FRANCOPHONE
+
+############################
+
+########🇲🇱 MALI #EXTINF:-1 tvg-logo="https://i.imgur.com/a1.png" group-title="AF MALI",ORTM
+https://www.youtube.com/@ORTMofficiel/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2.png" group-title="AF MALI",TM1 Mali
+https://www.youtube.com/@tm1mali/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3.png" group-title="AF MALI",Cherifoula TV
+https://www.youtube.com/@cherifoulatv/live
+
+########🇸🇳 SENEGAL #EXTINF:-1 tvg-logo="https://i.imgur.com/b1.png" group-title="AF SENEGAL",2STV
+https://www.youtube.com/@2stvsenegal/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b2.png" group-title="AF SENEGAL",RTS 1
+https://www.youtube.com/@RTS_Officiel/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3.png" group-title="AF SENEGAL",Walf TV
+https://www.youtube.com/@walftv/live
+
+########🇨🇮 CÔTE D'IVOIRE #EXTINF:-1 tvg-logo="https://i.imgur.com/c1.png" group-title="AF COTE IVOIRE",RTI 1
+https://www.youtube.com/@RTIofficiel/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2.png" group-title="AF COTE IVOIRE",NCI
+https://www.youtube.com/@nci.ci/live
+
+########🇨🇲 CAMEROUN #EXTINF:-1 tvg-logo="https://i.imgur.com/d1.png" group-title="AF CAMEROUN",CRTV
+https://www.youtube.com/@CRTVweb/live
+
+########🇨🇬 CONGO #EXTINF:-1 tvg-logo="https://i.imgur.com/e1.png" group-title="AF CONGO",Télé Congo
+https://www.youtube.com/@telecongotv/live
+
+########🇨🇩 RDC #EXTINF:-1 tvg-logo="https://i.imgur.com/e2.png" group-title="AF RDC",RTNC
+https://www.youtube.com/@RTNC_live/live
+
+############################
+
+😂 COMÉDIE FRANCOPHONE
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/10.png" group-title="COMEDIE",Comédie FR
+https://www.youtube.com/results?search_query=film+comique+francais+complet
+
+############################
+
+🎬 SÉRIES AFRIQUE
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/11.png" group-title="SERIES AFRIQUE",Nollywood Series
+https://www.youtube.com/results?search_query=nollywood+series+full+episodes
+
+############################
+
+🎬 SÉRIES EUROPE
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/12.png" group-title="SERIES EUROPE",Series Europe
+https://www.youtube.com/results?search_query=series+europe+full+episodes
+
+############################
+
+🧒 ENFANTS
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/13.png" group-title="ENFANTS",Peppa Pig FR
+https://www.youtube.com/@peppapigfrancais/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14.png" group-title="ENFANTS",Dessins animés
+https://www.youtube.com/results?search_query=dessin+anime+francais
+
+############################
+
+🔞 ADULTE SOFT
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/15.png" group-title="ADULTE SOFT",Romantic Soft
+https://www.youtube.com/results?search_query=film+romantique+18+
+
+############################
+
+🏆 SPORTS
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/16.png" group-title="SPORTS",Red Bull TV
+https://www.youtube.com/@redbull/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/17.png" group-title="SPORTS",FIBA
+https://www.youtube.com/@FIBA/live
+
+############################
+
+🌍 YOUTUBE LIVE GLOBAL
+
+############################ #EXTINF:-1 tvg-logo="https://i.imgur.com/18.png" group-title="YOUTUBE LIVE",YouTube Live
+https://www.youtube.com/live
+
+############################
+
+FIN DE LA PLAYLIST
+
+############################
