@@ -1,0 +1,242 @@
+#EXTM3U url-tvg="http://example.com/epg.xml" x-tvg-url="http://example.com/epg.xml"
+
+############################################################
+#                     🌍 AFRIQUE (par pays) - with tvg-logo
+############################################################
+
+########### 🇲🇱 AF MALI ###########
+#EXTINF:-1 tvg-id="ortm" tvg-name="ORTM" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/ortm.png" group-title="AF MALI",ORTM
+https://www.youtube.com/@ORTMofficiel/live
+
+#EXTINF:-1 tvg-id="tm1mali" tvg-name="TM1 Mali" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/tm1.png" group-title="AF MALI",TM1 Mali
+https://www.youtube.com/@tm1mali/live
+
+#EXTINF:-1 tvg-id="cherifoula" tvg-name="Cherifoula TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/cherifoula.png" group-title="AF MALI",Cherifoula TV
+https://www.youtube.com/@cherifoulatv/live
+
+#EXTINF:-1 tvg-id="joliba" tvg-name="Joliba TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/joliba.png" group-title="AF MALI",Joliba TV
+https://www.youtube.com/@jolibatv/live
+
+#EXTINF:-1 tvg-id="africa-tv-mali" tvg-name="Africa TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/africatv.png" group-title="AF MALI",Africa TV
+https://www.youtube.com/@africatvml/live
+
+#EXTINF:-1 tvg-id="renouveau-tv" tvg-name="Renouveau TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/renouveau.png" group-title="AF MALI",Renouveau TV
+https://www.youtube.com/@renouveauTV/live
+
+#EXTINF:-1 tvg-id="issa-ber-tv" tvg-name="Issa Ber TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/issaber.png" group-title="AF MALI",Issa Ber TV
+https://www.youtube.com/@issabertv/live
+
+#EXTINF:-1 tvg-id="duniarealtv" tvg-name="Dunia Real TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/dunia.png" group-title="AF MALI",Dunia Réal TV
+https://www.youtube.com/@duniarealtv/live
+
+#EXTINF:-1 tvg-id="kayes-tv" tvg-name="Kayes TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/kayes.png" group-title="AF MALI",Kayes TV
+https://www.youtube.com/@kayestv/live
+
+#EXTINF:-1 tvg-id="segou-tv" tvg-name="Ségou TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/segou.png" group-title="AF MALI",Ségou TV
+https://www.youtube.com/@segoutvofficiel/live
+
+#EXTINF:-1 tvg-id="ortm2" tvg-name="ORTM 2" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/ortm2.png" group-title="AF MALI",ORTM 2
+https://www.youtube.com/@ortm2officiel/live
+
+#EXTINF:-1 tvg-id="afrika-television" tvg-name="Afrika TV Mali" tvg-logo="https://raw.githubusercontent.com/diank-streamt/logos/main/mali/afrika.png" group-title="AF MALI",Afrika TV Mali
+https://www.youtube.com/@afrikatelevision/live
+
+########### 🇸🇳 AF SENEGAL ###########
+#EXTINF:-1 tvg-id="2stv" tvg-name="2STV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/2stv.png" group-title="AF SENEGAL",2STV
+https://www.youtube.com/@2stvsenegal/live
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rts1.png" group-title="AF SENEGAL",RTS 1
+https://www.youtube.com/@RTS_Officiel/live
+#EXTINF:-1 tvg-id="walftv" tvg-name="Walf TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/walftv.png" group-title="AF SENEGAL",Walf TV
+https://www.youtube.com/@walftv/live
+#EXTINF:-1 tvg-id="tfm" tvg-name="TFM" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tfm.png" group-title="AF SENEGAL",TFM
+https://www.youtube.com/@TFMofficiel/live
+
+########### 🇳🇬 AF NIGERIA ###########
+#EXTINF:-1 tvg-id="channels" tvg-name="Channels TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/channels.png" group-title="AF NIGERIA",Channels TV
+https://www.youtube.com/@channelstelevision/live
+#EXTINF:-1 tvg-id="nta" tvg-name="NTA" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/nta.png" group-title="AF NIGERIA",NTA
+https://www.youtube.com/@NTAnigeria/live
+#EXTINF:-1 tvg-id="ait" tvg-name="AIT" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ait.png" group-title="AF NIGERIA",AIT
+https://www.youtube.com/@aitlive/live
+#EXTINF:-1 tvg-id="silverbird" tvg-name="Silverbird TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/silverbird.png" group-title="AF NIGERIA",Silverbird TV
+https://www.youtube.com/results?search_query=Silverbird+TV+live
+
+########### 🇨🇮 AF CÔTE D'IVOIRE ###########
+#EXTINF:-1 tvg-id="rti1" tvg-name="RTI 1" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rti1.png" group-title="AF COTE IVOIRE",RTI 1
+https://www.youtube.com/@RTIofficiel/live
+#EXTINF:-1 tvg-id="nci" tvg-name="NCI" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/nci.png" group-title="AF COTE IVOIRE",NCI
+https://www.youtube.com/@nci.ci/live
+#EXTINF:-1 tvg-id="la3" tvg-name="La 3" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/la3.png" group-title="AF COTE IVOIRE",La 3
+https://www.youtube.com/@La3Officielle/live
+
+########### 🇨🇲 AF CAMEROUN ###########
+#EXTINF:-1 tvg-id="crtv" tvg-name="CRTV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/crtv.png" group-title="AF CAMEROUN",CRTV
+https://www.youtube.com/@CRTVweb/live
+#EXTINF:-1 tvg-id="equinoxe" tvg-name="Equinoxe TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/equinoxe.png" group-title="AF CAMEROUN",Equinoxe TV
+https://www.youtube.com/results?search_query=Equinoxe+TV+live
+#EXTINF:-1 tvg-id="vision4" tvg-name="Vision 4" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/vision4.png" group-title="AF CAMEROUN",Vision 4
+https://www.youtube.com/results?search_query=Vision+4+live
+
+########### 🇨🇬 AF CONGO ###########
+#EXTINF:-1 tvg-id="telecongo" tvg-name="Télé Congo" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/telecongo.png" group-title="AF CONGO",Télé Congo
+https://www.youtube.com/@telecongotv/live
+
+########### 🇨🇩 AF RDC ###########
+#EXTINF:-1 tvg-id="rtnc" tvg-name="RTNC" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtnc.png" group-title="AF RDC",RTNC
+https://www.youtube.com/@RTNC_live/live
+
+########### 🇬🇭 AF GHANA ###########
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV Ghana" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/gtv.png" group-title="AF GHANA",GTV
+https://www.youtube.com/@gtvghana/live
+#EXTINF:-1 tvg-id="ghone" tvg-name="GHOne TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ghone.png" group-title="AF GHANA",GHOne TV
+https://www.youtube.com/results?search_query=GHOne+TV+live
+
+########### 🇬🇳 AF GUINÉE ###########
+#EXTINF:-1 tvg-id="rtg" tvg-name="RTG Guinée" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtg.png" group-title="AF GUINEE",RTG
+https://www.youtube.com/results?search_query=RTG+Guinee+live
+
+########### 🇧🇫 AF BURKINA FASO ###########
+#EXTINF:-1 tvg-id="rtb_bf" tvg-name="RTB Burkina" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtb_bf.png" group-title="AF BURKINA",RTB
+https://www.youtube.com/results?search_query=RTB+Burkina+live
+
+########### 🇳🇪 AF NIGER ###########
+#EXTINF:-1 tvg-id="telesahel" tvg-name="Télé Sahel" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/telesahel.png" group-title="AF NIGER",Télé Sahel
+https://www.youtube.com/results?search_query=Tele+Sahel+live
+
+########### 🇧🇯 AF BENIN ###########
+#EXTINF:-1 tvg-id="ortb_ben" tvg-name="ORTB Bénin" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ortb.png" group-title="AF BENIN",ORTB
+https://www.youtube.com/results?search_query=ORTB+Benin+live
+
+########### 🇹🇬 AF TOGO ###########
+#EXTINF:-1 tvg-id="tvt" tvg-name="TVT Togo" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tvt.png" group-title="AF TOGO",TVT
+https://www.youtube.com/results?search_query=TVT+Togo+live
+
+########### 🇰🇪 AF KENYA ###########
+#EXTINF:-1 tvg-id="ntvkenya" tvg-name="NTV Kenya" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ntvkenya.png" group-title="AF KENYA",NTV Kenya
+https://www.youtube.com/@ntvkenya/live
+#EXTINF:-1 tvg-id="k24" tvg-name="K24" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/k24.png" group-title="AF KENYA",K24
+https://www.youtube.com/results?search_query=K24+Kenya+live
+
+########### 🇿🇦 AF AFRIQUE DU SUD ###########
+#EXTINF:-1 tvg-id="sabc" tvg-name="SABC News" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/sabc.png" group-title="AF SOUTH AFRICA",SABC News
+https://www.youtube.com/@sabcnews/live
+#EXTINF:-1 tvg-id="enca" tvg-name="eNCA" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/enca.png" group-title="AF SOUTH AFRICA",eNCA
+https://www.youtube.com/@eNCA/live
+
+########### 🇲🇦 AF MAROC ###########
+#EXTINF:-1 tvg-id="2m" tvg-name="2M Maroc" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/2m.png" group-title="AF MAROC",2M
+https://www.youtube.com/@2mtv/live
+#EXTINF:-1 tvg-id="alaoula" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/alaoula.png" group-title="AF MAROC",Al Aoula
+https://www.youtube.com/@alaoulaofficiel/live
+
+########### 🇩🇿 AF ALGÉRIE ###########
+#EXTINF:-1 tvg-id="entv" tvg-name="ENTV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/entv.png" group-title="AF ALGERIE",ENTV
+https://www.youtube.com/@entv/live
+
+########### 🇹🇳 AF TUNISIE ###########
+#EXTINF:-1 tvg-id="tt" tvg-name="Télévision Tunisienne" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tt.png" group-title="AF TUNISIE",Télévision Tunisienne
+https://www.youtube.com/results?search_query=Television+Tunisienne+live
+
+########### 🇪🇬 AF EGYPTE ###########
+#EXTINF:-1 tvg-id="ontv" tvg-name="ONTV Egypt" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/ontv.png" group-title="AF EGYPTE",ONTV
+https://www.youtube.com/@ONTVEGY/live
+
+############################################################
+#                     🇪🇺 EUROPE (par pays) - with logos
+############################################################
+
+########### 🇫🇷 EU FRANCE ###########
+#EXTINF:-1 tvg-id="france24fr" tvg-name="France 24 FR" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/france24.png" group-title="EU FRANCE",France 24 FR
+https://www.youtube.com/@FRANCE24/live
+#EXTINF:-1 tvg-id="france24en" tvg-name="France 24 EN" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/france24_en.png" group-title="EU FRANCE",France 24 EN
+https://www.youtube.com/@FRANCE24English/live
+#EXTINF:-1 tvg-id="euronewsfr" tvg-name="Euronews FR" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/euronews.png" group-title="EU FRANCE",Euronews FR
+https://www.youtube.com/@euronewsfr/live
+#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tv5monde.png" group-title="EU FRANCE",TV5Monde
+https://www.youtube.com/@TV5MONDE/live
+
+########### 🇧🇪 EU BELGIQUE ###########
+#EXTINF:-1 tvg-id="rtbf" tvg-name="RTBF" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtbf.png" group-title="EU BELGIQUE",RTBF
+https://www.youtube.com/@RTBF/live
+
+########### 🇨🇭 EU SUISSE ###########
+#EXTINF:-1 tvg-id="rtsinfo" tvg-name="RTS Info" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtsinfo.png" group-title="EU SUISSE",RTS Info
+https://www.youtube.com/@RTSinfo/live
+
+########### 🇬🇧 EU UK ###########
+#EXTINF:-1 tvg-id="skynews" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/skynews.png" group-title="EU UK",Sky News
+https://www.youtube.com/@SkyNews/live
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/bbcnews.png" group-title="EU UK",BBC News
+https://www.youtube.com/@BBCNews/live
+
+########### 🇩🇪 EU ALLEMAGNE ###########
+#EXTINF:-1 tvg-id="dw" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/dw.png" group-title="EU ALLEMAGNE",DW News
+https://www.youtube.com/@dwnews/live
+
+########### 🇮🇹 EU ITALIE ###########
+#EXTINF:-1 tvg-id="rainews" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rainews.png" group-title="EU ITALIE",Rai News 24
+https://www.youtube.com/@rainews/live
+
+########### 🇪🇸 EU ESPAGNE ###########
+#EXTINF:-1 tvg-id="rtve" tvg-name="RTVE" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtve.png" group-title="EU ESPAGNE",RTVE
+https://www.youtube.com/@rtve/live
+
+########### 🇵🇹 EU PORTUGAL ###########
+#EXTINF:-1 tvg-id="rtp" tvg-name="RTP" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/rtp.png" group-title="EU PORTUGAL",RTP
+https://www.youtube.com/@RTP/live
+
+############################################################
+#                    👶 ENFANTS (with logos)
+############################################################
+#EXTINF:-1 tvg-id="peppa" tvg-name="Peppa Pig FR" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/peppa.png" group-title="ENFANTS",Peppa Pig FR
+https://www.youtube.com/@peppapigfrancais/live
+#EXTINF:-1 tvg-id="cartoonkids" tvg-name="Cartoon Kids" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/cartoonkids.png" group-title="ENFANTS",Cartoon Kids
+https://www.youtube.com/results?search_query=cartoon+kids+full+episodes
+
+############################################################
+#                    😂 COMEDIE FRANÇAISE (with logo)
+############################################################
+#EXTINF:-1 tvg-id="comediefr" tvg-name="Comedie FR" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/comediefr.png" group-title="COMEDIE FR",Comédie Française
+https://www.youtube.com/results?search_query=film+comique+francais+complet
+
+############################################################
+#                    🎥 SERIES AFRIQUE (with logo)
+############################################################
+#EXTINF:-1 tvg-id="nollywood" tvg-name="Nollywood Series" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/nollywood.png" group-title="SERIES AFRIQUE",Nollywood Series
+https://www.youtube.com/results?search_query=nollywood+series+full+episodes
+
+############################################################
+#                    🎬 SERIES EUROPE (with logo)
+############################################################
+#EXTINF:-1 tvg-id="euseries" tvg-name="EU Series" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/euseries.png" group-title="SERIES EUROPE",EU Series
+https://www.youtube.com/results?search_query=european+series+full+episodes
+
+############################################################
+#                    🎞️ FILMS GRATUITS (with logos)
+############################################################
+#EXTINF:-1 tvg-id="pluto" tvg-name="Pluto TV Movies" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/pluto.png" group-title="FILMS",Pluto TV Movies
+https://pluto.tv/live-tv
+#EXTINF:-1 tvg-id="tubi" tvg-name="Tubi" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/tubi.png" group-title="FILMS",Tubi
+https://tubitv.com
+
+############################################################
+#                    🔞 ADULTE SOFT (with logo)
+############################################################
+#EXTINF:-1 tvg-id="adultsoft" tvg-name="Adult Soft" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/adultsoft.png" group-title="ADULTE SOFT",Adult Romantic Films
+https://www.youtube.com/results?search_query=romantic+movie+18%2B
+
+############################################################
+#                    🏆 SPORTS OFFICIELS (with logos)
+############################################################
+#EXTINF:-1 tvg-id="redbull" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/redbull.png" group-title="SPORTS",Red Bull TV
+https://www.youtube.com/@redbull/live
+#EXTINF:-1 tvg-id="fiba" tvg-name="FIBA" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/fiba.png" group-title="SPORTS",FIBA
+https://www.youtube.com/@FIBA/live
+
+############################################################
+#                    📺 YOUTUBE LIVE GLOBAL (with logo)
+############################################################
+#EXTINF:-1 tvg-id="youtubelive" tvg-name="YouTube Live" tvg-logo="https://raw.githubusercontent.com/diank-streamt/diankstream-/main/logos/youtube.png" group-title="YOUTUBE LIVE",YouTube Live
+https://www.youtube.com/live
+
+# EOF — diank-tv (AF exclu MALI complet) - with logos
